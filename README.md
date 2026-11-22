@@ -7,7 +7,6 @@ mostly taking old Xbox 360 games apart and getting them to run natively on thing
 
 - **[PES13Recomp](https://github.com/xamphy/PES13Recomp)** — an unofficial native port of *Pro Evolution Soccer 2013* (Xbox 360) for **Windows and iPad**, built with static recompilation. No game assets included; bring your own copy.
 - **Xbox 360 recompilation tooling** — fixes and experiments in my forks of [XenonRecomp](https://github.com/xamphy/XenonRecomp) (PowerPC → C++) and [XenosRecomp](https://github.com/xamphy/XenosRecomp) (Xenos shaders → HLSL).
-- **[Can You Pass Engineering?](https://github.com/xamphy/can-you-pass-engineering)** — a text-based survival game about getting through four years of an EEE degree. Python, made for a programming course.
 
 #### 🛠️ Stuff I use
 
